@@ -64,5 +64,7 @@ This analysis demonstrated the power of customer segmentation to inform targeted
 3. **Further Research**: Explore additional features, such as purchasing frequency or product preferences, to refine segmentation models and uncover deeper insights.
 4. **Customer Retention**: Build personalized strategies for each segment to improve customer retention and increase the lifetime value of each group.
 
+![Customer Clusters](./images/customer-clusters.png)
+
 This project underscores the importance of data-driven decision-making in understanding customer behavior and crafting effective marketing strategies.
 
